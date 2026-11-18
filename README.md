@@ -4,10 +4,7 @@ A tiny, no-nonsense network speed overlay for Windows. It shows your live downlo
 
 No ads, no popups, no browser pages opening at startup, and no network connections of its own. I had to make this out of sheer frustration from the options available on MS Store. They are riddled with ads, persistent pop ups and to stop that the developer asked for monthly subscription, for a speed indicator. Hence Net Speed Meter.
 
-```
-<img width="463" height="70" alt="image" src="https://github.com/user-attachments/assets/f1e8094c-49f9-47ff-bda7-a83af41cbb4f" />
-
-```
+<img width="463" height="70" alt="image" src="https://github.com/user-attachments/assets/33d502ec-cabb-4f2b-8ee2-9a7fce146b4b" />
 
 ## Features
 
